@@ -99,7 +99,7 @@ const PORTFOLIO_DATA = {
       title: "Portfolio Website",
       category: "Web App",
       description: "Tampilan antarmuka mode gelap (dark mode) pada website portofolio personal yang interaktif dan responsif.",
-      image: "Cuplikan layar 2026-10-20 124542.png",
+      image: "foto Project fortopolio.png",
       tags: ["Vue.js", "Tailwind CSS", "Vite", "JavaScript"],
       liveLink: "https://4hdm.github.io",
       githubLink: "https://github.com/4hdm/fortopolio-vue.js-"
@@ -109,7 +109,7 @@ const PORTFOLIO_DATA = {
       title: "VueShop List",
       category: "Web App",
       description: "Aplikasi manajemen daftar belanja harian yang interaktif dan responsif untuk mencatat, memfilter, serta memantau progres belanja secara real-time.",
-      image: "Cuplikan layar 2026-10-20 153809.png",
+      image: "foto vue list.png",
       tags: ["Vue.js 3", "Tailwind CSS", "LocalStorage"],
       liveLink: "https://example.com",
       githubLink: "https://github.com/4hdm/vue-shoplist"
@@ -119,7 +119,7 @@ const PORTFOLIO_DATA = {
       title: "VueCalc Pro",
       category: "Web App",
       description: "Aplikasi kalkulator saintifik modern berbasis Vue 3 dan Tailwind CSS yang mendukung fungsi matematika dasar hingga tingkat lanjut.",
-      image: "Cuplikan layar 2026-10-20 164839.png",
+      image: "foto vue calc.png",
       tags: ["Vue.js 3", "Tailwind CSS", "JavaScript"],
       liveLink: "https://4hdm.github.io/vue-calc",
       githubLink: "https://github.com/4hdm/vue-calc"
@@ -129,7 +129,7 @@ const PORTFOLIO_DATA = {
       title: "Mahasiswa)",
       category: "Web App",
       description: "Aplikasi Manajemen Data Mahasiswa & Program Studi modern dengan sentuhan estetika Crimson Luxury & Adaptive Dark Mode.",
-      image: "Cuplikan layar 2026-10-24 002216.png",
+      image: "foto sim mahasiswa.png",
       tags: ["Laravel 10/11", "Bootstrap 5.3", "JavaScript", "MySQL", "PHP", "DomPDF"],
       liveLink: "https://github.com/4hdm/Sim-mahasiswa",
       githubLink: "https://github.com/4hdm/Sim-mahasiswa"
